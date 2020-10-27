@@ -1,4 +1,4 @@
-# JPMorgan-Chase-Virtual-Internship
+# JPMC
 
 This repository contains the entire files of the assigned tasks by JPMorgan Chase &amp; Co. Software Engineering Virtual Internship.
 ## Website Link:
@@ -7,5 +7,5 @@ This repository contains the entire files of the assigned tasks by JPMorgan Chas
 
 ## My Certificate of Completion 
 
-![](https://github.com/cdrsonu/JPMorgan-Chase-Virtual-Internship/blob/master/ScreenShoot.png)
+![](https://github.com/cdrsonu/JPMorgan-Chase-Virtual-Internship/blob/master/ScreenShootr.png)
 
